@@ -22,7 +22,6 @@ from tqdm import trange
 #重参数化
 def regularization(mu, logvar):
     return -0.5 * torch.sum(1 + logvar - mu.pow(2) - logvar.exp())
-
 #损失
 def Guassian_loss(recon_x, x):
     weights = x * args.alpha + (1 - x)
