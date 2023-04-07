@@ -1,3 +1,3 @@
 # MOICVAE
 Multi-Omics Integration Collective Variational AutoEncoder(MOICVAE) for cell-line drug sensitive prediction.
-![workflow](https://user-images.githubusercontent.com/15098729/179515759-972fdee7-091e-4ea7-b8bd-e6b2ed3ee268.png)
+![result1-01](https://user-images.githubusercontent.com/15098729/230592075-69f72756-eb37-4035-8378-ee2a7fbe8839.png)
